@@ -1,0 +1,6 @@
+The Libraries used are :
+
+pandas
+numpy
+scikit-learn
+tensorflow
