@@ -15,7 +15,7 @@ Each scenario is implemented in a **separate, well-structured file** following i
 
 ML_Assignment/
 │
-├── ML_Assignments/
+├── scenarios/
 │ ├── scenario_01_data_validation.py
 │ ├── scenario_02_logging_decorator.py
 │ ├── scenario_03_missing_value_handling.py
